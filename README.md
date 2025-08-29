@@ -13,4 +13,5 @@ The dataset used is a layoffs dataset containing information about company layof
 # Tools
 Used SQL language for data cleaning and MYSQL Database.
 
-After data cleaning steps, the dataset is ready for analysis.
+
+## After data cleaning steps, the dataset is ready for analysis.
